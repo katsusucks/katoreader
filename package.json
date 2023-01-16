@@ -1,0 +1,15 @@
+{
+  "name": "katoreader",
+  "version": "1.0.1",
+  "description": "katoreader allows you to see the size of a folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["fs"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
