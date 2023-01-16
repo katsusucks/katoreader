@@ -1,5 +1,3 @@
-<strong>Usage</strong>
-<br>
 + Checking the size of the folder
 
 ```js
